@@ -105,5 +105,5 @@ The system leverages **Machine Learning regression algorithms** to predict annua
 
 ## 📎 Project Files
 
-- `insurance_prediction.ipynb` - Full notebook
+- `python_sklearn_regression.ipynb` - Full notebook
 - `presentation.pptx` - Final output presentation
